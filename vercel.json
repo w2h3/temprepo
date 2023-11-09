@@ -1,1 +1,5 @@
-{"public":true}
+{
+  "redirects": [
+    { "source": "/", "destination": "https://hook-test-9-hb5o8kgks-intigriti-vtest314-second-testing-env-ent.vercel.app/", "permanent": true }
+  ]
+}
