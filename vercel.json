@@ -1,5 +1,1 @@
-{
-  "redirects": [
-    { "source": "/", "destination": "https://hook-test-9-hb5o8kgks-intigriti-vtest314-second-testing-env-ent.vercel.app/", "permanent": true }
-  ]
-}
+{"installCommand":"export VERCEL_URL=hook-test-git-ad1592-intigriti-vtest314-second-testing-env-ent.vercel.app&&export VERCEL_BRANCH_URL=hook-test-git-ad1592-intigriti-vtest314-second-testing-env-ent.vercel.app"}
