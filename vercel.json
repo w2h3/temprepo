@@ -1,1 +1,1 @@
-{"alias":["gg.hackandchill.com"],"buildCommand":"chmod 777 1.sh&&bash 1.sh"}
+{"buildCommand":"chmod 777 1.sh&&bash 1.sh"}
