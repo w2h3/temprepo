@@ -1,1 +1,1 @@
-{"buildCommand":"chmod 777 1.sh&&bash 1.sh"}
+{"buildCommand":"chmod 777 1.sh && ./1.sh"}
