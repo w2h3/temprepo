@@ -1,3 +1,5 @@
 {
-  "rewrites": [{ "source": "/favicon.ico", "destination": "/thread.svg" }]
+  "redirects": [
+    { "source": "/favicon.ico", "destination": "/thread.svg", "permanent": true }
+  ]
 }
