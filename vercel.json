@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/favicon.ico", "destination": "/thread.svg", "permanent": true }
+    { "source": "/gg", "destination": "/thread.svg", "permanent": true }
   ]
 }
